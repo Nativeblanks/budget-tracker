@@ -1,7 +1,7 @@
 # Budget Tracker
 
 Starter code provided for PWA to add offline functionality
-
+Budget tracking app that allows you to add and subtract funds
 
 ## Table of Contents
     
